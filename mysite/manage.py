@@ -4,6 +4,7 @@ import sys
 # aew
 # outro
 # semid
+# closes
 a = 'ae oioioioi'
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings")
