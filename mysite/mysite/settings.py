@@ -24,7 +24,7 @@ TEMPLATE_DIR = ps.path.join(BASE_DIR, 'blog/templates/blog')
 SECRET_KEY = '@88l$z$&3p!z2ge-ebydnt4)ca*@6_6b8gn&n7@zbtzh0ebe*e'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 
