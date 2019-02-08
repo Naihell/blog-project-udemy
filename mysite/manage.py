@@ -2,7 +2,7 @@
 import os
 import sys
 # aew
-a = 'ae carai'
+a = 'ae oioioioi'
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings")
     try:
