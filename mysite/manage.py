@@ -7,6 +7,7 @@ import sys
 # closes
 # outro closes
 a = 'ae oioioioi'
+b = 'teste'
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings")
     try:
